@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sangjin Kim
+- How to reach
+  - https://www.linkedin.com/in/sangjin-kim-4a1347154/
  
 <!---
 rla2892/rla2892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
